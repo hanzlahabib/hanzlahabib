@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanzlahabib
 - 👀 I’m interested in JavaScript / NodeJS
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend project using React/Vue and Nodejs, AWS
 - 🌱 Learning design patterns in depth
 <br>
 
